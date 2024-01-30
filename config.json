@@ -26,12 +26,12 @@
     "backup_ads": "google_ad_manager",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-3940256099942544",
-        "app_open_id": "ca-app-pub-3940256099942544/3419835294",
-        "banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-        "native_id": "ca-app-pub-3940256099942544/2247696110"
+        "publisher_id": "pub-5387934930579220",
+        "app_open_id": "ca-app-pub-5387934930579220/2476621921",
+        "banner_id": "ca-app-pub-5387934930579220/6990582000",
+        "interstitial_id": "ca-app-pub-5387934930579220/9425173657",
+        "rewarded_id": "ca-app-pub-5387934930579220/9233601966",
+        "native_id": "ca-app-pub-5387934930579220/9042030279"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
@@ -95,9 +95,9 @@
       "app_open_ad_on_resume": true
     },
     "global": {
-      "interstitial_ad_interval": 5,
+      "interstitial_ad_interval": 4,
       "native_ad_index_2_columns": 6,
-      "native_ad_index_3_columns": 6,
+      "native_ad_index_3_columns": 9,
       "native_ad_style_exit_dialog": "medium",
       "native_ad_style_wallpaper_list": "large",
       "native_ad_style_wallpaper_details": "large"
