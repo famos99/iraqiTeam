@@ -23,7 +23,7 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "google_ad_manager",
+    "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-5387934930579220",
